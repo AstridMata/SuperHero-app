@@ -1,0 +1,7 @@
+/* imagen fondo del home */
+.Home{
+    background-image: url('https://media.istockphoto.com/vectors/vector-superhero-team-silhouette-illustration-vector-id1190702606?k=20&m=1190702606&s=170667a&w=0&h=t274Vo_sDG-vMGHdNLu-n5EnZBiDu2vdkzQGMDRYL4M=');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: right;
+}
